@@ -1,6 +1,6 @@
 """
 1. CS 404 - Assignment 3: Hashi Game AI
-2.  Team Members: Ada Canoglu (29022), Kourosh Sharifi (30438)
+2.  Team Members: Ada Canoglu, Kourosh Sharifi
 
 3. Key points: Islands are tuples (x, y, w)
     - Islands are kept in a list in the same order read from left to right top to bottom on grids
