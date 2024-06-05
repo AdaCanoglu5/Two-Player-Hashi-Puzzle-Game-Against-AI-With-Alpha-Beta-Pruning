@@ -7,7 +7,6 @@
     - Adjacency matrix to store bridges, which is symmetric
     - Terminal state is when no valid moves exists
     - State transition function is make_move
-    - Payoff function is inside make_move actually
     - The alpha beta pruning algorithm works by assuming that you (human) are really smart and
         always respond with the most optimal choice. It does not consider you making bad moves
 """
